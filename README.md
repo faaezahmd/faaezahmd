@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiz Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
+<h3 align="center">A passionate UI/UX and Front-End developer from Karachi, Pakistan</h3>
 
 - 🌱 I’m currently learning **WebRTC**
 
