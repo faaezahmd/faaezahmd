@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faiz Ahmed</h1>
-<h3 align="center">A passionate UI/UX and Front-End developer from Karachi, Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from Karachi, Pakistan</h3>
 
-- 🌱 I’m currently learning **WebRTC**
+- 🌱 I’m currently learning **Vue JS**
 
 - 📝 I sometimes write articles on [https://www.faizahmed.me](https://www.faizahmed.me)
 
-- 💬 Ask me about **Wordpress, React, SASS**
+- 💬 Ask me about **Wordpress, React, SASS, Next**
 
 - 📫 How to reach me **faaezahmd@gmail.com**
 
