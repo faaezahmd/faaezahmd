@@ -5,7 +5,7 @@
 
 - 📝 I sometimes write articles on [https://www.faizahmed.me](https://www.faizahmed.me)
 
-- 💬 Ask me about **Wordpress, React, SASS, Next**
+- 💬 Ask me about **Wordpress, React, SASS, Next JS**
 
 - 📫 How to reach me **faaezahmd@gmail.com**
 
