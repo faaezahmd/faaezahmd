@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz Ahmed</h1>
-<h3 align="center">A passionate Front-end developer from Karachi, Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Karachi, Pakistan</h3>
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **Vue JS** & **Python & FastAPI**
 
 - 📝 I sometimes write articles on [https://www.faizahmed.me](https://www.faizahmed.me)
 
