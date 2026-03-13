@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from Karachi, Pakistan</h3>
 
-- 📝 I sometimes write articles on [https://www.faizahmed.me](https://www.faizahmed.me)
+- 📝 Personal Site: [https://www.faizahmed.me](https://www.faizahmed.me)
 
 - 💬 Ask me about **React, Next JS, Vue, Nuxt JS, Python, Hetzner, Coolify**
 
