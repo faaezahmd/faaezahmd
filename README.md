@@ -3,7 +3,7 @@
 
 - 📝 I sometimes write articles on [https://www.faizahmed.me](https://www.faizahmed.me)
 
-- 💬 Ask me about **Wordpress, React, Next JS, Vue, Nuxt JS**
+- 💬 Ask me about **React, Next JS, Vue, Nuxt JS, Python, Hetzner, Coolify**
 
 - 📫 How to reach me **faaezahmd@gmail.com**
 
